@@ -1,4 +1,0 @@
-1- importe o 'crudsimples.sql' pra dentro do SQL Worckbench
-2- no wamp coloque os arquivos dentro da pasta "www" ou xamp coloque os arquivos dentro da pasta "htdocs"
-3- execute o wamp ou xamp 
-4- acesse o link "localhost/cadastro/banco.php".
