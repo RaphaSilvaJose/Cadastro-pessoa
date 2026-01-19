@@ -1,9 +1,19 @@
-# Projeto Cadastro-Pessoa
+# Cadastro de Pessoa
 
-* Importe o 'crudsimples.sql' pra dentro do SQL Worckbench  
-* No wamp coloque os arquivos dentro da pasta "www" ou xamp coloque os arquivos dentro da pasta "htdocs"  
-* Execute o wamp ou xamp  
-* Acesse o link: [cadastro](http://localhost/cadastro/banco.php).  
-* Ou <http://localhost/cadastro/banco.php>
+## 📌 Descrição
+Sistema simples de cadastro de pessoas em PHP. O projeto inclui funcionalidades básicas para criar, visualizar e armazenar dados de usuários.
 
-#### Utilizei Ambiente desenvolvimento XAMP.
+## 🧠 Tecnologias Utilizadas
+- PHP  
+- MySQL (banco de dados sugerido)
+
+## 🎯 Objetivo
+Desenvolver lógica de CRUD (Create, Read, Update, Delete) em um ambiente web, consolidando conceitos de formulários, servidor e integração com banco de dados.
+
+## 📌 Status
+✅ Projeto funcional — válido para estudo e referência.
+
+## 🧠 Como usar
+1. Configure um servidor local (XAMPP, WAMP, etc).  
+2. Importe o banco de dados sugerido.  
+3. Acesse via navegador e teste as funcionalidades de cadastro.
